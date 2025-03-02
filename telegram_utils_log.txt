@@ -1,2 +1,0 @@
-2025-03-02 23:41:22,763 - ERROR - chat_id должен быть целым числом или None, получено 411655143
-2025-03-02 23:41:22,766 - ERROR - Ошибка закрытия сессии Telegram: 'AiohttpSession' object has no attribute 'closed'
